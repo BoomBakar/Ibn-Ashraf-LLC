@@ -3,7 +3,9 @@ import './ImageSlider.css';
 
 const images = [
     '/slides/AI.jpg',
+    '/slides/arabdeal.png',
     '/slides/CS.jpg',
+    '/slides/arab.png',
     '/slides/CS2.jpg',
     '/slides/laptop.png'
 ];
