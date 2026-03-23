@@ -16,7 +16,7 @@ function Footer() {
                         📧 <a href="mailto:sohailbdxb173@gmail.com">sohailbdxb173@gmail.com</a>
                     </p>
                     <p>
-                        📞 <a href="tel:+971042651901">+971 04 265 1901</a>
+                        📞 <a href="tel:042651901">+971 04 265 1901</a>
                     </p>
                     <p>
                         📍 <a
