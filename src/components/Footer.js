@@ -13,10 +13,10 @@ function Footer() {
                 <div className="footer-links">
                     <h4>Contact</h4>
                     <p>
-                        📧 <a href="mailto:sohailbdxb173@gmail.com">sohailbdxb173@gmail.com</a>
+                        📧 <a href="mailto:hr@ibneashrafllc.com">hr@ibneashrafllc.com</a>
                     </p>
                     <p>
-                        📞 <a href="tel:042651901">042651901</a>
+                        📞 <a href="tel:042651901">(04) 265 1901</a>
                     </p>
                     <p>
                         📍 <a
@@ -29,7 +29,7 @@ function Footer() {
                     </p>
                 </div>
 
-                <div className="footer-social">
+                {/* <div className="footer-social">
                     <h4>Message Us</h4>
                     <div className="social-icons">
                         <svg
@@ -46,18 +46,18 @@ function Footer() {
                             />
                         </svg>
                         <a
-                            href="https://wa.me/97142651901"
+                            href="https://wa.me/+97142651901"
                             target="_blank"
                             rel="noreferrer"
                         >
                             Chat on WhatsApp
                         </a>
                     </div>
-                </div>
+                </div> */}
             </div>
 
             <div className="footer-bottom">
-                <p>© {new Date().getFullYear()} Ibn Ashraf Technical Services LLC · All rights reserved.</p>
+                <p>© 2022 Ibn Ashraf Technical Services LLC · All rights reserved.</p>
             </div>
         </footer>
     );
